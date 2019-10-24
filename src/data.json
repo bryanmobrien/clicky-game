@@ -1,0 +1,62 @@
+[
+    {
+        "name": "dirt",
+        "img": "http://www.minecraftguides.org/blocks/dirt.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "grass",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/4/44/Grass_Block_Revision_6.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "diamond",
+        "img": "https://vignette.wikia.nocookie.net/minecraft/images/8/89/BlockOfDiamondNew.png/revision/latest?cb=20190908155806",
+        "isNotChosen": true
+    },
+    {
+        "name": "diamondOre",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/9/97/Diamond_Ore.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "gold",
+        "img": "http://www.minecraftguides.org/blocks/blockGold.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "goldOre",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f7/Gold_Ore.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "iron",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/8/86/Block_of_Iron.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "ironOre",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/8/87/Iron_Ore.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "coal",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/8/81/Block_of_Coal.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "coalOre",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/f/fe/Coal_Ore.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "lapis",
+        "img": "https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b1/Lapis_Lazuli_Block.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "lapisOre",
+        "img": "http://www.minecraftguides.org/blocks/oreLapis.png",
+        "isNotChosen": true
+    }
+]
