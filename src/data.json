@@ -1,0 +1,62 @@
+[
+    {
+        "name": "professor",
+        "img": "./images/professor.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "beast",
+        "img": "./images/beast.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "captain-america",
+        "img": "./images/captain-america.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "groot",
+        "img": "./images/groot.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "hawkeye",
+        "img": "./images/hawkeye.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "hulk",
+        "img": "./images/hulk.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "logan",
+        "img": "./images/logan.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "magneto",
+        "img": "./images/magneto.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "purple-man",
+        "img": "./images/purple-man.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "storm",
+        "img": "./images/storm.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "thanos",
+        "img": "./images/thanos.png",
+        "isNotChosen": true
+    },
+    {
+        "name": "wolverine",
+        "img": "./images/wolverine.png",
+        "isNotChosen": true
+    }
+]
